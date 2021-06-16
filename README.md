@@ -1,1 +1,3 @@
 # til
+
+Inspired by https://github.com/wajahatkarim3/Today-I-Learned, which was inspired by https://github.com/jbranchaud/til, which was inspired by https://github.com/thoughtbot/til...
