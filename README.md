@@ -1,3 +1,3 @@
-# til
+# Today I Learned
 
 Inspired by [wajahatkarim3/Today-I-Learned](https://github.com/wajahatkarim3/Today-I-Learned), which was inspired by [jbranchaud/til](https://github.com/jbranchaud/til), which was inspired by [thoughtbot/til](https://github.com/thoughtbot/til)...
